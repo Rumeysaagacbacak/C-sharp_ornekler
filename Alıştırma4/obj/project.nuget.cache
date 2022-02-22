@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4V2QkvK6OO91yubSj0EHE0YzhPN9zUDUfeCgBcso56ysb/xZIyZbwzud/yLxcGKeaCnnQZfeLb+BuKS7V2Qdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\C-sharp_ornekler\\Alıştırma4\\Alıştırma4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
