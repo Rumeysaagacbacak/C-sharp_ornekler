@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxHrs7ASwEceF4ybD5FWpLhKgEEWBvl4ZdPn68+B4neerKNiK8uOxdK/1XKeweK4AuB4e0+9wBFD1TkTz3oAsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumey\\OneDrive\\Masaüstü\\C-sharp_ornekler\\Alistirma1\\Alistirma1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
